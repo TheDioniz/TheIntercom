@@ -1,0 +1,16 @@
+#keyboard-button {
+  text-align: center;
+  border: 1px solid silver;
+  border-radius: 3%;
+  padding: 5%;
+}
+
+#btn-value {
+  font-size: 24px;
+}
+
+@media (max-width: 520px) {
+  #btn-value {
+    font-size: 18px;
+  }
+}

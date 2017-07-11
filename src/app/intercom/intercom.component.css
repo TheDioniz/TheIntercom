@@ -1,0 +1,19 @@
+#validationText {
+  font-size: 24px;
+  color: white;
+}
+
+.success {
+  background-color: lightgreen;
+}
+
+.failure {
+  background-color: tomato;
+}
+
+
+@media (max-width: 520px) {
+#validationText {
+  font-size: 18px;
+}
+}

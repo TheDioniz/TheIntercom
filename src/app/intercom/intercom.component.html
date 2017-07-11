@@ -1,0 +1,7 @@
+<div class="row">
+  <p class="lead">Type your code here to enter the site</p>
+  <div id="intercom">
+    <app-keyboard (requestCodeValidation)="onCodeValidation($event)"></app-keyboard>
+  </div>
+  <p id="validationText" [ngClass]="isCodeValid ? 'success' : 'failure'">{{ codeValidationText }}</p>
+</div>
