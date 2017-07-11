@@ -2,6 +2,12 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.0.
 
+## Usage
+1. Run the server as described in `Development server` section
+2. Type the code by clicking on the buttons and commit with `#` character
+  - after that you should see the message if the code was correct
+  - try the code: `007#` - it should occur as correct code 
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
