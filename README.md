@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.0.
 
+## Description
+
+By running application you will get the intercom simulator. Intercom has functionality of password (pin code) validation and presenting the proper output if pin code was correct or not
+
 ## Usage
 1. Run the server as described in `Development server` section
 2. Type the code by clicking on the buttons and commit with `#` character
